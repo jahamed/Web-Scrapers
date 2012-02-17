@@ -14,7 +14,7 @@ def computeBus(url, file):
   #uncomment the folowing lines to add proxy support with TOR/privoxy  
   #proxy_handler = urllib2.ProxyHandler({'http':'localhost:8118'})
   #opener = urllib2.build_opener(proxy_handler)
-  
+  hi
   html = urllib2.urlopen(url).read()
 
   soup = BeautifulSoup(html)
