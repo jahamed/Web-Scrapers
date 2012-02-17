@@ -1,0 +1,1 @@
+This was a small personal project I did to extract item prices off of the Runescape Grand Exchange, so I could find the most efficient item to resell to make a profit. As the market changed per day I thought making a scraper and storing the information in a database would help me.
